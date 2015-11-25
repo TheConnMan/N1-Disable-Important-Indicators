@@ -1,0 +1,11 @@
+{
+  "name": "diable-important-indicators",
+  "version": "0.1.0",
+  "description": "Remove the Important indicator because everything you get is important",
+  "main": "lib/main.coffee",
+  "author": "TheConnMan",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
