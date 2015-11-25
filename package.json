@@ -1,6 +1,10 @@
 {
   "name": "diable-important-indicators",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheConnMan/N1-Disable-Important-Indicators"
+  },
   "description": "Remove the Important indicator because everything you get is important",
   "main": "lib/main.coffee",
   "author": "TheConnMan",
