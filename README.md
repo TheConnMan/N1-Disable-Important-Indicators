@@ -5,6 +5,7 @@ Extremely basic plugin for the [Nylas N1](https://github.com/nylas/N1) mail clie
 
 ## Installation
 1. [Download](https://github.com/TheConnMan/N1-Disable-Important-Indicators/archive/master.zip) and extract this repo
-2. From the menu, select `Developer > Install a Package Manually...`. Navigate to the extracted plugin and select that folder.
+2. Rename the extracted folder to remove the `-master` so the package is named properly
+3. From the menu, select `Developer > Install a Package Manually...`. Navigate to the extracted plugin and select that folder.
 
   > When you install packages, they're moved to `~/.nylas/packages`, and N1 runs `apm install` on the command line to fetch dependencies listed in the package's `package.json`
